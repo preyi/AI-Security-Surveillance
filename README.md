@@ -63,6 +63,7 @@ AI-Security-Surveillance/
 * Abnormal behavior detection such as sudden collapse, struggle, or forced movements
 * Sends alerts to nearest authorities using location-based services
 * Centralized UI dashboard for monitoring and control
+* Sample folder contains the images and videos for testing
 
 ---
 
